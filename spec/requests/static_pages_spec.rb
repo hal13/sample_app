@@ -50,7 +50,7 @@ describe "StaticPages" do
     end
   end
 
-  describe "Contact" do
+  describe "Contact page" do
 
     it "should have the content 'Contact'" do
       visit '/static_pages/contact'
